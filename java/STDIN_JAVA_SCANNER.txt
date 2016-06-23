@@ -1,0 +1,17 @@
+1. Read using scanner. Single element at a time
+
+ public static void main(String[] args) {
+	/*
+		input: anagram
+		       margana
+	*/
+
+        Scanner scan = new Scanner(System.in);
+        String a = scan.next();
+        String b = scan.next();
+	// or 	String a= scanner.nextLine();
+	//	String b= scanner.nextLine();
+        scan.close();
+    }
+
+
