@@ -1,0 +1,185 @@
+Mathwork - mine
+1. Removing duplicates in an array  
+2. What is virtual function and what is pure virtual function?
+3. Memory Management, Heap analysis,coding in java,c,python.Linux questions. Your projects, Presentation etc  
+4. Pass by Value/Pass by Reference
+5. 	1.Difference between cross-correlation and convolution
+	2. Position of poles for a stable LTI system.
+	3. Eigenvalues and eigenvector
+	4. Pass by Value/Pass by Reference
+	5. Solve a differential equation
+6. What is garbage collection, difference between private and public.  
+7. how dynamic memory works with constructors?
+8. 1. garbage collection, memory allocation and destructors. (c/c++ and java)
+   2. I was also asked about designing a prototype of an ATM machine!  
+9. 1. java memory leak, example
+   2. Linux, how to get all running java processes
+   3. database, primary key, example
+   4. how do you install python in linux(command line)
+10. Difference between public private protected
+11. Most of C++ questions were pointer based. 
+12. 1. Difference between overloading and overriding.
+    2. What are generics in java.
+    3. Some debugging and output prediction codes.  
+13. what is String Buffer? what is public static void main(String[] args), explain it?..etc
+14. C & C++, difference between macros and functions, datastructures and algorithm, Oop concepts like abstract classes, 	virtual functions, static functions
+15.  Basic Java: related to ArrayList, Vector; C++: virtual   functions and output of some code snippets; Math: Linear 	     algebra, matrices, limits; A class implementation 
+16. Abstract class, OOPS concept, Virtual functions  
+17. Linear Algebra and Matrices  
+18. Some of the questions were- code snippet of inheritance, polymorphism and Strings. Generics, String pool etc. Couple     of code snippets for javascript. Question related to Data Structures like what are graphs and describe how HashMap     works. Design questions like how would you design a vending machine. OS related questions like Critical section, Mutex     locks, DeadLock etc and some Maths question related to probability.
+19. What is mutual exclusion? 
+20. Programming Concepts 1.Given a random array of numbers.How do you sort them?Select any sorting algorithm and write the     pseudo code.(C) I implemented Merge Sort with merge subroutine I forgot base case ,I added later 2.1/8th of a circle.
+   (NS)
+21. Difference between destructor and virtual destructor
+22. ou will be asked to find errors on codes (I was given a multithreading code that has no lock on critical section), 	predict output from provided codes (nested try catch and finally), code on whiteboard (any recursive sorting 	algorithm, remove * and characters surrounding it), and textbook programming questions.
+
+	Tips on interview with the manager and HR: review MathWorks core values and come up with examples when you 	demonstrate these values.
+23. What are Real time operating systems?  
+24. Try and catch...nd mutex...semaphore..  
+25. Java: Inheritance, Polymorphism, Garbage Collection. Final, finally, finalize.
+26. What is eigen value? Show me how to optimize the following matlab code.  
+27. Design model for ATM machine (OOPs)  
+28. What is the probability that two persons share birthday on same among group of x people? 
+29. 1. Why Java is generic?
+    2. How to work with threads in Java?
+    3. Is it possible to execute Garbage collector forcefully ?
+    4. Hash map and Hash table. Difference? 
+    5. pointer, enum -code debug
+30.	1. Are there destructors in Java? How do you call them?
+	Difference between finally and finalize? Can you call finalize() whenever you want?
+	2. oop -> With regards to Insertions and Deletions, why is LinkedList better than a Dynamic Array?
+	3. OS -> What is Mutex?
+	4. math -> Birthday problem: 400 people same birthday in a year
+		What is sum to n natural numbers? Can you derive it?
+		What is pigeonhole principle? 
+31. How do you compute factorial in sub-linear complexity?
+32. 	What is mutex, semaphore?
+	What is best sorting algorithm, its time complexity?
+	Fibonacci which skips one digit eg: 5!=5x3x1
+	Exceptional handling
+	Function overriding
+	Inheritance concepts
+	Race condition, life stages of thread
+	A lot of code snippets asking to predict output
+	Birthday Paradox problem
+	How to check if a number can be expressed in powers of 2? Using bitwise op
+	OO model for a college including professor students etc  
+33. What is a pointer?
+34. Design a star schema model
+35. 	Java concepts
+	Python Concepts
+	OOP concepts
+	Inheritance
+	Class diagram for some situations
+	Abstraction
+	Static methods and blocks  
+36. What is the runtime of a recursive fibonacci sequence generator.
+37. 	OO Concepts: describe OO programmig in your own words, difference between static and dynamic polymorphism, 	describe some classes you would use in a hospital application
+38. Details of Java garbage collection, difference between mutex and semaphore, using a jar file in a project, construct a     queue in Java.
+39. Are python strings mutable, how to create a constructor in Python
+40. Max positive and negative value of 32-bit signed integer, probability that in a room of 400 people, at least 2 share a     birthday
+41. Design a system including UI and database for hospital. 
+42. Multiple inheritance,exception handling,hashmap vs hashtable,serialization,mutex vs semaphores
+43. Recursive algorithm,String Manipulation,static imports
+44. Explain LLVM code generation
+45. JAVA
+    1. Mother Father are two classes Child is child - how to implement this in Java?
+    2. Arraylist or Vector?
+    3. How to access the static methods of a class? - involving reflections.
+    4. Will a code written on a mac run on windows machine? Why or why not?
+    5. Thread class in Java.
+    6. Multiple inheritances in Java possible?
+
+    C++
+    1. Does one prefer char array or string? Why?
+    2. One instance of using Exceptions?
+    3. Will this code compile kind of questions.
+
+   Python
+   1. Is Python strongly typed?
+   2. What does it mean when a language is dynamically typed?
+   3. Dictionaries?
+   4. Libraries?
+
+   OS
+   Threads
+   Mutex
+   Critical section.
+
+   OOPS
+   Why have pointers at all?
+   Abstract class vs Interface?
+
+   Maths
+   400 people in the room what is the probability that they will share a birthday?
+   Complexity of multiplication of 2 nxn matrices?
+   Order notation
+
+46. How to hide the elements using CSS 
+47. Multithreading
+48. Same class,object, polymorphism, static method, abstract same thing over and over! 
+49. Difference between B and B+ tree.
+50. C
+    -Difference between malloc and calloc, syntax of each, and how calloc is used
+    -inline function, and use of it
+    -difference between #define and const
+    -some code that changes value of const, and asked what would happen
+   C++
+
+	-Whats a copy constructor?
+	- Class student {
+	char * name;
+
+	}
+	-what happens when you initialize -student s1; ?
+	-what default methods compiler substitutes?
+
+	-Whats the difference between Student s1=s2 and s1=s2? ( first will invoke copy constructor and second will invoke 	operator)
+	-lets say class student has s1,s2 and s3 objects. is s1=s2+s3 legal in C++?
+
+	Other-
+	Whats a hash table
+	how will you implement an algorithm to find duplicates in an array, its time complexity, if the array is sorted?  
+51. 1. Anargram. 2. well ordered string (high frequency question). 3. Number (like 157, you can find a number 144 + 1 + 5     + 7 = 153), then 144 is a number of 153. find all of possible number in given a N
+52.  Number of permutations of a word - "BANANA"  
+53. ---C++
+    -What is virtual constructor?
+    -What is virtual function?
+    -Given a code with destructor and asked for the output?
+    -Can you define a function in c++ structure?
+    -Default access type of c++ structure?
+    -How do you concatenate two strings?   
+54. ---Math
+    -Given a differential equation and asked for degree and order.
+    -Given a matrix and asked for eigenvalue and eigenvector.  
+
+55. write pseudo code to calculate factorial of a number
+56.  Exit condition for the fibonacci series
+57. Math:
+    1. Find the inverse of a 3x3 matrix.
+    2, Find the orthogonal vector to A=i+2j+k; B=j+2k
+    3. Find acceleration from velocity
+58. Find the inverse of a 3x3 matrix.
+59. difference between path and classpath
+    what is JVM, how is java platform independent
+    what are JDK and JRE
+    what is a package
+    What are generics
+    what are wrapper classes and what are the advantages
+    can you force garbage collection in java? how?
+    Is java pass by value or ref? why?
+60. C++: What is polymorphism. What is the default property for a variable and a function defined in a class(public,     private or proteced)
+61. Explain OOPS concepts, what is copy constructor, Eigen Value, Eigen Vector, Static and Dynamic Polymorphism.
+62. What is overloading,overriding?
+    what is the use of destructor?
+    what is the difference between JDK and JRE?
+    what is malloc and calloc?
+    what is the difference between static and dynamic memory allocation?  
+63. What happens if a.py imports b and b.py imports a?  
+64. File operations in C/Difference between String and String Buffer 
+65. Bag with 16 red, 15 white, 33 green balls. Number of ways of picking the same. Pick One ball at a time.
+66. 9 balls out of which one is bigger. how do u find the bigger one. All seems alike.
+67. How to find out area of largest rectangle in a parabola?
+68. Divide a gold bar into least pieces such that worker can be paid every day provided he worked for 7 days. Find out         least number of divisions of bar
+69. Write a func to crete a arc of circle such that dere is inbuilt func which takes input as x, y coordinate and locate     it on plot. 
+70. 

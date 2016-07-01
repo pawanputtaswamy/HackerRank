@@ -1,0 +1,5 @@
+Phone interview.
+
+1. Reverse a single linked list.
+2. Do the same with recurssion.
+3. Design a vending machine.

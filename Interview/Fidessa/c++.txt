@@ -1,0 +1,16 @@
+Fidessa:
+
+1. Given a sorted array of integers and a k value find the number pairs that have a difference of k.
+2. Given a text file that is not sorted, how could you find all the phone numbers in the stated file? The phone numbers are in different formats.
+3. Merge sorted lists
+4. Stack application,fundamental c++ questions involve copy constructor and polymorphism
+5. One is Roman2Int and the other one is merge linked list. Quite simple.  (DONE)
+6. merge k linked list  
+7. Describe the pros and cons of using a hash table as opposed to other data structures.
+8. Write a function to find the index of the array that the longest ascending sequence starts.
+9. Write a function to find the maximum number of adjacent pairs of coins if one of the coin is reversed.
+10. Determine from an integer number of unique integers (0,1,2,3,..9) in it
+11. 26 letters each corresponds to a number in range 1-26, write a function to calculate the difference of two letters
+12. An engineer wants to have two dice on his desk with numbers that can make up any day of the month. What numbers are on each dice? Single digit numbers have to use both dice (01 for 1, etc.).
+13. Make a queue(or stack, i forgot), without using any library. 
+14. Explain C++ exception safety  

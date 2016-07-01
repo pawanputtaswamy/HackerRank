@@ -1,0 +1,550 @@
+After that I got an email form hr to schedule a phone technical interview. I opted for java and web technologies,
+ some of the questions were- code snippet of inheritance, polymorphism and Strings. Generics, String pool etc.… 
+
+Why Java is generic?  
+Answer Question
+How to work with threads in Java?  
+Answer Question
+Is it possible to execute Garbage collector forcefully ?  
+Answer Question
+Hash map and Hash table. Difference?  
+Answer Question
+pointer, enum -code debug  
+
+What is mutex, semaphore?
+What is best sorting algorithm, its time complexity?
+Fibonacci which skips one digit eg: 5!=5x3x1
+Exceptional handling
+Function overriding
+Inheritance concepts
+Race condition, life stages of thread
+A lot of code snippets asking to predict output
+Birthday Paradox problem
+How to check if a number can be expressed in powers of 2? Using bitwise op
+OO model for a college including professor students etc 
+
+OO Concepts: describe OO programmig in your own words, difference between static and dynamic polymorphism, describe some classes you would use in a 
+hospital application.
+
+Java: Details of Java garbage collection, difference between mutex and semaphore, using a jar file in a project, construct a queue in Java.
+
+Python: Are python strings mutable, how to create a constructor in Python
+
+Mathematics: Max positive and negative value of 32-bit signed integer, probability that in a room of 400 people, at least 2 share a birthday.  
+
+Interview Questions
+JAVA
+1. Mother Father are two classes Child is child - how to implement this in Java?
+2. Arraylist or Vector?
+3. How to access the static methods of a class? - involving reflections.
+4. Will a code written on a mac run on windows machine? Why or why not?
+5. Thread class in Java.
+6. Multiple inheritances in Java possible?
+
+C++
+1. Does one prefer char array or string? Why?
+2. One instance of using Exceptions?
+3. Will this code compile kind of questions.
+
+Python
+1. Is Python strongly typed?
+2. What does it mean when a language is dynamically typed?
+3. Dictionaries?
+4. Libraries?
+
+OS
+Threads
+Mutex
+Critical section.
+
+OOPS
+Why have pointers at all?
+Abstract class vs Interface?
+
+Maths
+400 people in the room what is the probability that they will share a birthday?
+Complexity of multiplication of 2 nxn matrices?
+Order notation  
+
+Interview Questions
+1) Find an error in the given java code which removes '*' along with preceeding and succeeding characters.
+2) Similar debugging codes covering basic java questions.
+3) Same went with JavaScript.
+4) What are storage classes in C and write a basic C program for writing a string into file.
+5) Number of permutations of a word - "BANANA"  
+
+difference between path and classpath
+what is JVM, how is java platform independent
+what are JDK and JRE
+what is a package
+What are generics
+what are wrapper classes and what are the advantages
+can you force garbage collection in java? how?
+Is java pass by value or ref? why?
+
+Interview Questions
+difference between path and classpath  
+
+Explain OOPS concepts, what is copy constructor, Eigen Value, Eigen Vector, Static and Dynamic Polymorphism.  
+
+JAVA
+1. Difference between final, finally and finalize
+2. Exit condition for the fibonacci series
+3. OOP
+
+Math:
+1. Find the inverse of a 3x3 matrix.
+2, Find the orthogonal vector to A=i+2j+k; B=j+2k
+3. Find acceleration from velocity
+
+Interview Questions
+What is overloading,overriding?
+what is the use of destructor?
+what is the difference between JDK and JRE?
+what is malloc and calloc?
+what is the difference between static and dynamic memory allocation?
+
+Calloc and malloc differences
+string and string buffer differences
+jdk , jre, jvm
+some code snippets in c and cpp
+can we define functions inside structures
+what is critical section  
+
+
+C++
+- advantages of OOP programming over procedure programming
+-recursive function, exit condition
+-how to have an instance of a class if the constructor is private
+-If class foo has private data types and private methods only, class bar inherits from class foo. how can you access the data types?
+-int arr[] = {1,2,3,4}
+for(int i = 0; i < 4; i++)
+{
+cout<<*(arr+i)<<" ";
+}
+explain this piece of code
+- virtual functions and virtual destructor 
+
+C++
+Base class pointer compatible with derived class pointers and vice-versa.
+Fibonacci, sorting in your favorite programming language
+OO Design Patterns
+What is the meaning of static, extern, private constructors etc.
+typecasting
+Dreaded diamond inheritance problem
+Default methods in a class
+
+String manipulation question in which a string containing one or more * was given as input and I have to develop an algorithm for removing
+ the * character and a character succeeding and preceding the * character  
+
+Interview Questions
+Math:
+How do u derive sum on N natural numbers(Math Induction)
+Birthday Paradox (400 people in a room, probability of 2 people sharing a birthday)
+How many signed integers can be represented using 32 bits
+AU(B ^ C)=?
+A problem on (AUBUC) formula
+Some question on Finita Automata and NFA
+C
+What is the procedure to find an even number, other than the mod operator
+What is the limitation of mod operator in C
+What is a UNION datatype
+
+C++
+What is an Abstract Class and its significance
+Runtime polymorhism
+Static keyword
+
+Java
+Difference between JRE JDK and JVM
+What is a hashmap
+is java Call by value or call by reference( Good question, I was asked this question in multiple interviews)
+OOPs concepts  
+
+Interview
+phone interview
+1. programming language
+java- what is oop
+       - polymorphism
+       - abstruct class
+       - recursive function
+       -give an example of using pointers
+       - diff equals() and ==
+c - difference between union and structure
+   - null pointer
+   - difference between malloc and calloc
+   - difference i++ and ++i
+
+
+
+math
+     -what is eigenvalue, eigenvector
+     - definite integral and indefinite integral
+
+
+Interview
+First thing- In order to work for this position, you need to know Matlab and must have used it for some period of time.
+Technical phone screening had three sections-
+1. Programming language of your choice.
+2. Real Time OS concepts.
+3. Basic Matlab questions.(yes, basic..a little too basic)
+
+Java was my preferred language. Questions were fairly straightforward like-
+1. Explain Classpath in Java,
+2. Explain Garbage Collector mechanism
+3. Difference between == and equal() and which one should be used when.
+4. A situation when the finally block wont be executed in Exception handling. Ans- exit()
+and some other simple questions already discussed here.
+
+RealTime OS-
+1. Inversion Priority- Definition, example, How to avoid ?
+2. Deadlock
+3. Difference between RTOS and OS
+and some more basics
+
+MATLAB -
+
+I was not able to answer most of the questions, I rarely use Matlab beyond drawing plots and graphs.
+
+But most of them were basic
+	
+
+1. function handling
+2. find the sampling frequency.
+3. dot product, cross product.
+4. Z transforms
+5. ROC
+6. Auto-correlation, Cross correlation, convolution definitions.
+7. Rank of a matrix.
+8. L'hospital rule .
+9. Significance of a null pointer.
+10. FIR vs IIR
+11. structure vs Union
+12. Nyquist sampling theorem.
+13. typedef function .
+14. difference in & and && in Matlab .
+15. Mention one operator which is used as binary operator as well as unary operator.
+16. how to represent a vector in matlab .
+17. left inverse and right inverse of a matrix.
+18. Inline function definition .
+19. Recursive function examples.
+20. what changes to be done to the code to make it run faster.
+21. characteristic equation of a matrix.
+22. how are Z transform and Fourier transform related.
+23. how to concatenate a 3X3 matrix with a 4X3 Matrix.
+24. Pass by value and pass by reference.
+25. Malloc and Calloc.
+26. Const int a vs define int a
+27. How does a Spectral Power Density of a white noise look like?
+28. Fourier series.
+29. what does #include mean?
+30. sinusoidal representation of fourier series importance.
+
+
+Maths:
+1> What are Eigen values and Eigen vectors. I was given a 2*2 matrix and told to calculate the values
+2> Definite and indefinite integrals
+3> Invertible matrices. They gave me a 2*2 matrix and told to see if it was invertible
+4> Given velocity v=2+3*t^2, calculate acceleration after 3 seconds and position after 4 seconds
+4> f(5)=3, f'(5)=8, calculate f(3) if f''=0 in all domains (I didn't quite understand this question)
+5> They gave me a simple ODE and told to solve it.
+6> Define order and degree of a Differential equation
+7> What is rank of a matrix. Given a 2*2 matrix, find its rank
+8> Given a Differential equation, find its degree and order
+--------------------------------------------------------------------------------------
+
+Java:
+1> What is the difference between int and integer
+2> What makes a JAVA program run faster
+3> Define packages in JAVA
+4> Pointers (Though JAVA doesn't have pointers, they asked me for its definitions)
+5> What is the significance of 'Finally' Keyword
+6> What are recursive functions
+7> Significance of EXIT command in recursive functions.
+8> Garbage collectors
+9> Does JAVA call by value or reference
+10> JRE and JDK
+11> What are generics in JAVA
+12> What are primitive data types in JAVA
+13> What are abstract classes and interfaces in JAVA
+14> What is inheritance
+15> What is polymorphism and define over loading an over riding in it
+16> What makes JAVA a OOP
+17> Difference between & and &&
+
+Basic Math questions consisted of Matrices, Scalars and vectors, differentiation and Integration, etc
+
+Math:
+- what is invertible matrix
+- what is the rank of a matrix. Calculate the rank: [1 1 0; 1 2 1; 0 1 1]
+- how to calculate eigenvalues. Calculate the eigenvalues: [3 -1; 1 5]
+- what's the difference between finite integral and infinite integral
+- lim sin x/x when x-&gt;0. How to calculate.
+
+C language:
+- How to find a number even/odd?
+- null pointer
+- rename the data type. Like int a, then rename 'int'
+- int *p;
+   *p=5;
+   Is the code above correct? what will happen when compiling.
+- difference between struct/ union
+- dynamic memory allocation, malloc
+- what data types can be returned
+- inline function
+- recursive exit condition
+
+How are multi-threaded applications written?  
+- difference between pass by value/ reference
+- find repeat element of an array
+- difference between continue/break
+
+Maths - pigeon hole, partial functions, probability, proof by Induction
+
+- Given a 2x2 matrix, find the eigenvalues;
+- What are some ways to speed up a code? Seemed like they require 3;
+- Given f(a) and f'(a), find f(b);
+- L'hopital's rule. I didn't see this one listed on Glassdoor comments.  
+
+
+- Is the system y[n]=x[n]*x[n-1] time invariant?
+- How do you see the contents of a .mat file without loading it into the workspace?
+- How do you open a .m file from the command line?
+
+Other than that it was standard stuff that's been listed here:
+- Linear algebra concepts (rank, inverse, singular matrix, eigenvectors, null space)
+- Find the rank of a 3x3 matrix (it was full rank by inspection)
+- Find the inverse of a 2x2 Matrix
+- Find the eigenvalues of a 2x2 matrix
+- Calculus concepts (what is a derivative, integral, how are they related (FTC), ODE vs PDE)
+- Integrate f(x)*g(x) where f(x)=x and g(x)=cos(x) (int by parts)
+- Solve the ODE dy/dx = cos(x)/(2y) with y(0) = 1 -- solution y(x) = sqrt(sin(x)+1)
+- C pointer and header questions
+- const int a = 100; vs #define a 100;
+- ++i vs. i++
+- Nyquist sampling theorem
+- required sampling frequency for cos(2*pi*250t)
+- convolution vs. cross-correlation
+- FIR vs IIR
+- What is Fourier Transform?
+- relationship between Z and DTFT
+- is y[n]=x[n]*x[n-1] linear or time invariant?
+- is y[n] = x[n^2] linear or time invariant?
+- is H(z) = (2z^2 + 3z)/(z^2 + 2.5z + 1) stable?
+- HDD vs RAM storage
+- MATLAB plotting (two plots on one axis, plotyy(), subplot(), 'ro' option)
+- concatenate strings
+- peek inside of a .mat file
+- generate vector of integers between 1 and n that are divisible by 3 (3:3:n)
+- find the indices of the values in a vector that are divisible by 3 ( find( mod(x,3)==0)) )
+- addpath()
+- startup.m, how to set your working directory on startup
+
+
+what is parallel computing and pipeling ?  
+
+Math: Matrices, find determinant, what is rank? Significance of rank, Eigen values, vectors, angle between vectors, what are linear differential equations?
+
+phone
+----------
+nfa,dfa
+What is pigeon hole principle?
+mutex
+virtual function
+memory allocation malloc
+the difference between a struct and a class
+what is pointer
+Expand A ^ ( B v C )
+java garbage collection
+What is 4-color theorem ?
+implementaion of sin and cos in a calculator
+Difference between ++a and a++?
+Difference between using # include <stdio.h> and "stdio.h"
+
+onsite
+---------
+implement stack using arrays
+convert nfa to dfa
+lots and lots of behavioral questions
+if you had 0's in a linked list of say 5 elements… 
+
+
+Math:
+1. Singular matrix?
+2. Rank of a matrix and what is its importance?
+3. Null space?
+4. Inverse of a 2x2 square matrix (For given values)?
+5. Given two vectors, what is the angle between them?
+6. What is Eigen vector? Importance of Eigen values and vectors.
+7. Given acceleration of a body. What is the velocity for a give t value.
+
+Programming concepts:
+1. Local and global scope?
+2. Recursive functions?
+3. Call by value and call by reference?
+4. Multicore processors??
+5. Difference between break and continue?
+
+
+Discrete math:
+linear function?
+Big-o notation
+hash table, bst, array and linkedlist; time complexities for insertion, deletion
+pigeon hole principle
+linked lists? deletion operation?
+hash function
+
+ava:
+classpath
+generics
+java machine independent?
+jvm machine independent?
+jre and jdk
+final class
+final cariable
+abstract class
+== and .equals  
+
+	
+
+2nd round telephone interview:
+Maths:
+(A n B) U C
+summation from 1 to n
+summation i=0 to infinity (1/7)^i
+summation i=1 to infinity (1/i)
+difference between DFA and NFA
+pigeonhole principle
+four color theorem
+add and multiply o(n) and o(n^2)
+complexity of matrix multiplication(with an explanation as to why)
+
+C/C++/Java/Programming Concepts:
+OOPS definition and concepts
+Exception Handling Mechanism
+typedef
+#define and const (gave a line of code and asked how it works differently)
+what is pointer?
+malloc and its disadvantage
+difference between foo a; and foo();
+diff between .equals and ==
+operator overloading with an example which operators cant be overloaded
+what is final
+difference between struct and class
+Can we start garbage collection in Java, how
+Java m/c dependent or not
+JVM m/c dependent or not
+abstract class
+hashtable explanation
+complexities for search operation of linked list, array, binary tree and hashtable. changes when an index is provided
+
+	
+
+1. DSP:
+1) What is IIR and FIR? Difference? Given an example to judge whether it s IIR or FIR and
+     why?
+2) What is z-transform? She gave me a sequence and asked me to get its z-transform
+3) Given a sequence, judged whether it is stable or not. Why?
+4) What is the relation between the unit circle and stable?
+5) I do not remember other questions, sorry!
+
+2. Math:
+1) Calculate the eigenvalue and eigenvector of a given 2-by-2 matrix.
+2) Calculate the inverse of a given 2*2 matrix.
+3) What is the null space of a given matrix.
+
+
+General Programming
+- What is Object Oriented Programming?
+- What are the benefits of inheritence?
+- Difference between global and local scope?
+- Why would using global variables be a bad practice?
+- What are pointers? What is the danger of using a pointer?
+- Advantage of a linked list over an array?
+- Worse case complexity for searching through a linked list?
+- What is multithreading?
+
+	
+
+Java & Ruby
+- Difference between JRE and JDG?
+- What is an abstract class?
+- A || B means what?
+- What happens: A || == B
+- Difference b/t rails and ruby?
+- What is a rake function?
+
+	
+
+Interview Questions
+Maths:
+1. What is Null Space of a matrix?
+2. Calculate inverse of [3 2;1 1];
+3. Calculate Eigen Value(s) of [3 -1; 1 5];
+4. Solve for y(x) ; dy/dx = cos x /2x;
+5. Solve above for boundary condition: y(0)=1;
+6. Lim x?0 sin x /x; Find the limits
+Signal Processiong:
+• Same Qs as mentioned in the website
+• Extra are as below:
+Y(n) = 0.2 y(n-1) + 2 x(m); Which Filter will you use?
+h(n) = 12301 x 10^3 ; Which filter will will you use?
+1. Concept of Cross-correlation
+2. Concept of Z-transform
+3. Diffference between Fourier Series and Fourier transform
+4. Concept of LTI – Linear time-invariant system theory
+
+Technical Interview:
+Programming concepts
+1. Recursive loops and how to exit from it?
+2. Describe the architecture of a computer or a processor
+DSP
+1. Aliasing
+2. Nyquist theorem
+3. Difference between fourier transform and fourier analysis
+4. Convolution
+5. To find the stability of an equation given
+6. z-transform of some signals.
+7. DFT and FFT
+Matlab
+1. diff b/w a.*b and a.b
+2. how to open a file in matlab
+3. how to concantenate two strings
+4. Diff b/w script and functtions
+C
+1. diff b/w * and & before a variable in pointers
+2. Null pointer
+3. MALLOC
+4. typedef, ifdef & ifndef
+5. what is #define
+Math
+1. Integration and differentiation
+2.Eigen values and vectors
+How to find inverse of a matrix
+
+Math:
+Characteristic Equation
+Find the perpendicular vector to two given vectors
+Determinant of the inverse of a matrix
+Determinant of the transpose of a matrix
+What is inversion
+Rank
+
+Programming:
+Explain how you would find duplicates in an array
+Call by reference, call by value
+Recursion
+How can you make a program more efficient keeping the algorithm the same
+
+Math: Basic questions on Linear Algebra like calculate Eigen Values for a small 2x2 matrix, find derivative of a function, partial differential equations, 
+etc. Nothing advanced, just basic calculus. Refresh some concepts like Eigen values and Eigen vectors, rank of a matrix, null space of a matrix, etc.
+
+1. Partial fraction expansion
+2. Solve an ODE
+
+Programming: (everything... C/C++/Java)
+1. Global and local scope
+2. What is Generics in Java?
+3. What are JDK and JRE?
+4. Nested try blocks
+5. Tricky things about String and StringBuffer

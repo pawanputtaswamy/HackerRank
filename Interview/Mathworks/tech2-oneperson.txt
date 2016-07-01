@@ -1,0 +1,120 @@
+Mathwork: (single person)
+
+"private", "static", "final",finalize, finally
+fibonacci series
+C++ syntax
+java syntax
+define...
+pigeonhole principle
+triangle inequality
+... okay, what about the cauchy swarz ineqality
+(A intersect B) union C)
+P union (P intersect Q) <=> Q is a tautology?
+P vs NP
+P vs NP related to turing machines
+countable vs uncountable sets
+diagonlization
+what's a FSM and a non-D FSM
+are they convertible
+local vs global scope
+why are global scope variables bad?
+what are static variables?
+how are they related to memory allocation?
+what's a recursive function
+example of recursive ffunction
+what is OOP, in your own words
+advantages of OOP?
+"antyhing else? What about polymorphism
+what is a linkedlist, any advantages?
+what's a hash function?
+good properties fo hash function
+directed acyclic graph vs tree
+what is O(n) function
+if f=O(n), g=O(n!), then f+g is…
+f=O(n), g= O(n^2), f*g (times, not composite is)
+what is include<stdio.h>
+"stdio" vs <stdio>
+#define x=100
+what's a typedef?
+why use header files in C++
+why inline functions in C++?
+struct vs class
+Exceptions in C++
+Basic OOP concepts (inheritance, encapsulation, recursion, polymorphism)
+-Storage Classes
+-Inline Functions
+-How NULL differs in different languages
+how to use commandline in C++
+why are pointers useful and why
+what's a null pointer
+what's void pointer
+malloc calloc
+what is a virtual function
+what is a default constructor?
+JDK vs JRE?
+platforms and JVM?
+applet vs application
+import java.lang.String vs java.lang.*
+final keywords
+java commandline
+-Call by Value vs by Reference
+-Break vs Continue
+-Exception Handling
+Java == vs equalsTo
+what's a abstract class
+Garbage Collection/Memory Management
+what is a default constructor in java?
+
+They gave a few examples of code where a lot of variables were given the same name in different scopes/different classes that form some hierarchy and then asked what a test driver accessing variables by those names would do.
+
+Math, Algebra, Matrix operations, Differential equations, Programming, C, Matlab, Signal Processing
+like inverse of matrix, matlab output on screen
+explain hashtables
+unary operators. bitshift operators
+DSP
+limits and differential equations
+Partial diff
+Signal Processing (Z transforms, cont. and disc time systems, stability etc)
+What is an integral?
+What is a derivative?
+
+ Signal Processing:
+
+What is continuous time system? What is a discrete time system? How do you convert one to the other?
+What is an LTI system? What is causality?
+Relationship between Z transform and Fourier transform
+Z transform of a given impulse response? Is it casual?
+Given a Z transform, is it stable?
+Given an impluse response, is the system stable?
+What are random processes?
+What is a PSD?
+What does PSD of white noise look like?
+
+How to speed up the matrix assembling process?
+
+Recursive Functions?
+Pointers?
+Null Pointer?
+Difference between & and * ?
+malloc? Precautions?
+how would you add path in command line?
+How you save a variable in a mat file?
+How you save some specific variables in a mat file?
+How you open these data?
+How can you see the type of a variable?
+How can you do the inverse of a matrix?
+How you do the transpose of a matrix?
+What A.*B does?
+What A*B does?
+What A.’ does?
+What A.^-1 does?
+What A’ does?
+How you find help in MATLAB?
+How you plot a variable?
+What is a script?
+What is a function?
+What is a derivative?
+What is an integral?
+What is the relationship between integral and derivative?
+What is an eigenvalues?
+What is an eigenvector?

@@ -1,0 +1,19 @@
+1. find the first repeated letter in a sequence  
+2. Check for repeated characters in a string. run time is less than O(nlogn)
+3. Merge linked list  
+4. 1. What is the diamond problem in C++
+5. .What can macros do that functions cant
+
+C++ related (Can be anything as such - more on core C++ concepts) 
+
+6. Given three numbers which represents the three sides of triangle, and determine whether they can be constructed to equilateral triangle, isosceles triangle. 
+
+7. Given a sorted array of integers and a k value find the number pairs that have a difference of k
+8. 1) C/C++ differences in memory allocation
+2) Unix commands for performance (something along those lines)
+3) Proprietary language question (basic branching if/else statements)  
+
+9. Roman2Int 
+10. Describe the pros and cons of using a hash table as opposed to other data structures
+11. Write a function to find the index of the array that the longest ascending sequence starts.
+12. Write a function to find the maximum number of adjacent pairs of coins if one of the coin is reversed. 

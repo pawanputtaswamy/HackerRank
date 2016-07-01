@@ -1,0 +1,21 @@
+1. What is the diamond problem in C++
+	Occurs in multiple inheritance, occurs when two superclass of a class have a common base class.
+2.What can macros do that functions cant
+3.  core C++ concepts
+4. hash table & string related 
+5. Tell me about a conflict?
+   Tell me about a time when you impressed your managers ?
+   Tell me about yourself? Etc Etc 
+6. The most challenging project and some experience from my resume.
+7. Describe a time you took the initiative to solve a problem 
+8. Unix commands
+9. what are the advantages and disadvantages of hash tables?  
+10. your boss gives you files containing customer information. how do you extract all phone numbers from the files?  
+11. sort app name according to version number  
+12. Dice problem:
+	0, 1, 2, 3, 4, 5
+	0, 1, 2, 6, 7, 8
+13. linked list, tree and array
+14. SQL questions
+15. Can you talk about a time when a teammate failed in their task. 
+16. 

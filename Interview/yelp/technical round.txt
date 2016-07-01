@@ -1,0 +1,133 @@
+1. Mostly talking about your background and design question
+2. several algorithm questions, design questions, and knowledge questions.
+3. What happens when you type "yelp.com" on your browser *2
+4. Check anagram
+5. reverse a string
+6. Given a string how would you check if the string is a palindrome?
+7. Search complexity in a sorted and unsorted array.  
+8. How many bits in an Octal number.  
+9. Examples of Unsupervised and Supervised learning algorithms.
+10. If you would like to contribute to a product at Yelp which one will it be.
+11. Sort some given data 
+12. Like Datastructures, Data Warehouse, Big Data, etc
+13. How would you reverse a linked list?  
+14. What was the hardest issue you've had to solve when coding and how did you resolve it?
+15.  OOP fundamentals, and machine learning & data analytic concepts.  
+16. Given a list l and an int k produce a list of distinct pairs that add up to k
+17. Invert a binary tree  
+18. It's about Unix system semaphore's mechanism.  
+19. Questions about the project I did, concepts of thread, web browser and one coding problem which is related to subset 	sum.
+20. command to check memory usage  
+21. topological sort
+22. What is SSL? Return all words in the list with the prefix that user searched for. And without traverse the list every    time.
+23. How to use lists, sets, maps and read about how to sort and which data structure would be the best for the current use     case
+24. You have an array with words. Print them by anagrams groups  
+25. Design and write an algorithm to break up the review into sentences, and put it in a list/array data structure.
+26. Categorize a list of words into anagrams.
+27. Given two sparse Vectors, compute the Dot Product.
+28. Describe life-cycle of an HTTP request 
+29. Trees, hashes, sets, searching algorithms, big data, and in general, thinking outside the box.
+30. Print all the possible words combination from a long string with no space.
+31. Talk about the complexity of the sorting algorithms, quicksort and so on 
+32. about Java garbage collectors, stack vs heap questions, threading practices, some simple networking stuff,     compression, encryption, Android specifics
+33. Data structures, hash map, web technologies (make sure to understand this, since Yelp is a web company), search     algorithms, code exercise
+34. Given a list of words, return a list of list of words that are anagrams of each other.  
+35. spam-review system using Machine Learning techniques *2
+36. teh game "SET" which you should look up for context. 
+37. Subtract two strings
+38. Given a list of threads with a start time and finish time, determine all the threads with overlapping times
+39. Given a string, print true or false if you can create a palindrome with it.
+40.  Another binary search tree coding question.  
+41. How to implement a cache for yelp website.
+42. Given a list of words, group together words that are anagrams of each other.  
+43: port of HTTP
+44. Find a number, which is a very easy question by using Binary Search  
+45. some java questions
+    will adding more indexes to a database improve performance?
+    given a string, find longest string with unique characters
+46. given a list of urls, find top 10 most visited urls
+47. anagram sort
+    implement the 'cd' command i.e. given a function cd('a/b','c/../d/e/../f'), where 1st param is current directory and       2nd param is the sequence of operations, find the final directory that the user will be in when the cd command is         executed
+48. implement regex.
+49. find the sum of two integers represented as strings, return the sum as string, i.e "123" and "456" would return "579".
+50. print pascals triangle for a number.
+51. How to find the only different number in two unsorted arrays?
+52. Write code to generate all possible case combinations of a given lower-cased string. (e.g. "0ab" -&gt; ["0ab", "0aB",     "0Ab", "0AB"])  
+53. How to design a request dispatcher for load balancing?
+54. find the maximum number of segments that could fit on a number line given a list of segments.
+55. why are some websites slow?
+56. given a number of nodes and a number of edges, write a method to generate a random graph
+57. given an array of intervals, return max number of non-overlapping intervals 
+58. What is the linux signal (number) for "kill" command
+59. Implement this anagram grouping algorithm with a running time of O(n)
+60. Longest Palindrome Substring on leetcode. 
+61. write a program to generate all possible lowercase and uppercase combination {'AB',‘Ab’,'aB' and 'ab'} 
+62. Given a list of strings, write a function to calculate the longest common prefix (LCP) of all those strings.
+63. Given a URL. How do you find a phone no. in it?  
+64. Phone interview, 10 quick question:
+    -number of bit in octal
+    -some command in linuz(grep, kill)
+    -some sort complexity(binary)
+    -adding element to first of linked list
+    -data base question(outerjoin, left joint,..)
+    -SSL? TCP?
+65. Port number used by HTTP?
+    - Protocol underneath HTTP?
+    - Runtime efficiency of searching an element in an array using a binary search algorithm?
+    - Complexity of adding an element to the head of a linked list?
+    - Maximum value of 32 bits unsigned int?
+    - Number of digits needed to code an octet?
+    - What if we're in base 8?
+    - Number of bytes to code 64 bits?
+    - What does SSL stands for and what does it do?
+    - What is the Linux kill signal?
+    - Command to highlight the occurrence of a method in a file?
+    - Would you apply a binary search on a linked list or a sorted array?
+    - Is an inner join an intersection, a union or something else?
+66. - Started by presentation of himself, his team, and other teams
+	- Why computer science?
+	- Talk about an interesting project you implemented.
+	- How would you improve it?
+	- What did you find most interesting in that project?
+	- If a request takes too long, what could be the reason?
+    - Describe different steps when a form is posted
+
+	- Coding problem to do on a shared pad:
+	# given a list of words, write a function which
+	# takes in the list, and groups the words together
+	# according to which ones are anagrams of eachother
+	# e.g.
+	# input = ["art", "rat", "bats", "banana", "stab", "tar"]
+	# output = [["art", "rat", "tar], ["bats", "stab"], ["banana"]]
+
+	I wasted too much time trying to come up with an iterative solution when the problem is "easily" solvable with a 	recursive algorithm.
+67. he asked me what is a heap tree
+68. ssl, tcp/udp, sql.
+69. bits/bytes/octal/Unix/Python/TCP/HTTP/Data Structures.
+70. sort list of strings- coding
+71. ow do you find and replace a phone number from huge list of files.(your thinking approach)
+72. REST web service- my project related.
+73. how to design a MapReduce job for Yelp - given a list of URLs, find out the most frequent top 5 URLs.  
+74. Containing Linux shell command, Network, Array VS LinkedList with BST
+75. how many bits in octal?, kill -9 signal, how to get all the instances of a class, what is the command in unix to find     IP configuration information, inner join is what out of A union B, A intersect B and A - B, HTTP port number, SSL full     form and its purpose, complexity of some s
+76. input =&gt; ['cat', 'star', 'act', 'god', 'arts', 'dog', 'rats']
+
+    and returns a sorted array
+    output =&gt; ['cat', 'act', 'god', 'dog', 'start', 'arts', 'rats'] 
+77. how many bits can be represented by a single octal digit?  
+78. 1.Runtime efficiency of searching an element in an array using a binary search algorithm?
+    2.Complexity of adding an element to the head of a linked list?
+    3.Maximum value of 32 bits unsigned int?
+79. how to resolve deadlock  
+80. what is the maximum value of an unsigned 32-bit integer
+81. 1. size of unsigned integer
+    2.http port no.?
+    3.ssl full form?
+82. Complexity of adding a node in a linked list, range of 32 bit signed int.
+83. tell me about the ssl implementation and how it's different from tls 
+84. Permutation of a string.(Common question) 
+85. Given 6 integers and 1 target value, write a function to get the target value using 6 integers with any on these           operations +,*,-,/ Ans: F(X) = Sum(k=1..N){ v * (Prod(i=1..6 , i!=k) {(X-Xi)} /(Prod(i=1..6 , i!=k) {(Xk-Xi)}}
+86. ask a lot of linux commands, you need prepare them well
+87. Maximum subarray problem
+88. linked list or array for binary search?
+89. Write a function that returns a random line in a file.

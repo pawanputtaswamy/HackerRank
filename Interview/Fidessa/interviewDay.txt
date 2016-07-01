@@ -1,0 +1,7 @@
+Colabedit:
+
+C++
+
+1. Find k-diff pairs in an array.
+
+2. Given a string "25A45" convert it into float and (value for A will be given), divide the left by A, i.e if A is 5 then 25/5 = 5. Output is 5.45. Add the rest of the string to the output. i.e 45 after a '.'

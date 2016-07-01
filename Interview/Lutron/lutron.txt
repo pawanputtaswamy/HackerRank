@@ -1,0 +1,38 @@
+DONE 1) Reversing a LinkedList using recursion
+2) Design classes for cold drink vending machine
+3) How would you design a mobile app interface and how would you develop the backend code 	for the same interface. The interface was of a specific screen for a use case they 	described. 
+DONE 4) 1.Given 1 to 100 numbers, for multiples of 3 it should print "lu" ,for multiples of 5 	it should print "tron" ,for both multiples of 3 and 5 it should print "lutron".
+DONE 5) Same question using recursive method starting the number from 1.
+DONE 6) Same question using recursive method starting from 100 to 1.
+7)
+	3. Design pattern: Strategy and Command
+	4. Multiple Inheritance DONE
+	5. Relation between inheritance and interface DONE
+	6. Multi-thread ? How to execute multiple thread at a time?
+	7. Garbage Collection ? DONE
+	8. IOS experience about Objective-C
+	9. Android application, mobile programming in eclipse. DONE
+	10. which database did you use in Android application. LINQ DONE
+	11. SQL- store proc experience
+	12. Do you have any questions?  
+
+8) write a program that finds all palindromes given a list of words
+9) Implement undo() method for a paint class. ANS: Use Command/Memento pattern. Use stack data structure.
+10) You work for the DOT. There is a proposal to raise the speed limit on all PA highways from 55 to 75. Your boss is coming in for a meeting in 30 minutes. Decide what to do and pitch your conclusion to him/her.  DONE
+11) How would you measure the height of a kite given unlimited resources? - electrical
+12) How would you measure the weight of a car with only a ruler? - electrical
+13) How would you measure the height of an airplane without any instrumentation? - Mechanical
+14) How to open a hotel   - construction
+DONE 15) A man is standing in a boat in the center of a lake. Assume ideal conditions and no external forces are playing any role. There is a marker in the lake that marks the 	water level as X. The man throws the rock in the lake, now the marker reads the level as Y. What is X in relation to Y?
+16) Try to explain the difference between abstract class and interface.
+DONE 17) Design a possible structure for an application interface that has "undo" functionality.
+18) You are hiking through the jungle and stumble across a treasure chest in a 9ft DIA, 11 ft deep hole. List solutions to the retrieval of the treasure chest.
+19) Estimate how much energy can be saved if using a certain light bulb - P=VI
+ 20) Building a temperature controlled system.   
+21) Estimate how much it would cost the US annually to keep all the car headlights on. 
+22) Describe how to debounce a button in software.
+23) 4 people with different colored hats
+24) The next one was a puzzle. There are 2 White hats and   2 Black hats. 4 persons in a 	room and at least one of them has to say the color of the hat on their head 	otherwise , if at least one person tells it wrong all 4 of them will be killed. 	The 4 persons are standing in the following direction 4(W)----&gt; 3(B) -----&gt; 	2(W) -----&gt; | &lt;-----1 (B) 1 is already in the jail and he can't see any one 	. Any one can see only the persons ahead of them like 4 can see 3 and 2. Tell me 	who saves them and y. Interviewer was expecting to hear your explanation and he 	also liked to discuss how iam solving the puzzle. 
+25) Classic Lamb question.  
+26) manufacture a stapler
+27) 
