@@ -16,6 +16,8 @@ int BinarySearch(int arr[], int l, int r, int key)
 }
 
 /*
+This is a test comment
+
 int main(void)
 {
 	int arr[] = { 2, 3, 4, 10, 40 };
