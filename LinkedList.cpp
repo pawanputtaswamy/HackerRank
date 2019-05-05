@@ -6,7 +6,7 @@ struct Node {
 	int data;
 	Node* next;
 };
-
+//Testes by appi
 // only for the 1st Node
 void initNode(struct Node *head, int n){
 	head->data = n;
