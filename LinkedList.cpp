@@ -1,12 +1,13 @@
 #include <iostream>
 
+// Arpitha please edit this file and make things work.
+
 using namespace std;
 
 struct Node {
 	int data;
 	Node* next;
 };
-
 // only for the 1st Node
 void initNode(struct Node *head, int n){
 	head->data = n;
